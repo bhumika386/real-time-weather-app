@@ -1,5 +1,8 @@
 # Real-Time Weather App
 
+## Live Demo
+https://real-time-weather-app-9juvtnaumkprapuc7lzzmq.streamlit.app/
+
 ## Introduction
 
 A Python-based real-time weather application that displays
